@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # TheChoice v1.0
-# Coded by @thelinuxchoice (Don't change, noob!)
-# Github: https://github.com/thelinuxchoice/thechoice
+# Coded by @___god_of_war___(Don't change, noob!)
+# Github: https://github.com/prototype-spec/thechoice
 
 
 lhost="159.89.214.31"
@@ -1231,7 +1231,7 @@ printf "   | |  |  _ \| ___ |  | |     |  _ \ / _ \| |/ ___) ___ | \n"
 printf "   | |  | | | | ____|  | |_____| | | | |_| | ( (___| ____| \n"
 printf "   |_|  |_| |_|_____)   \______)_| |_|\___/|_|\____)_____) v1.0\e[0m\n"
 printf "\n"
-printf "            \e[1;93m.:.\e[0m\e[1;92m Coded by\e[0m\e[1;77m  @thelinuxchoice \e[0m\e[1;93m.:.\e[0m\n"
+printf "            \e[1;93m.:.\e[0m\e[1;92m Coded by\e[0m\e[1;77m  @___god_of_war___ \e[0m\e[1;93m.:.\e[0m\n"
 printf "\n"                                                          
 
 
